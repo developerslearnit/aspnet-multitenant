@@ -12,7 +12,6 @@ public partial class Customer
     {
         CustomerId = customerId;
         FirstName = firstname;
-
         LastName = lastName;
         Email = email;
     }
